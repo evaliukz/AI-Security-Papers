@@ -1,7 +1,7 @@
 # AI Security / Alignment — 14-Week Study Plan
 
 **Timeline:** Week 1 starts now; Week 14 ends around late December 2026 / early January 2027.  
-**Goal:** By January 2027, build enough vocabulary and mental models to have substantive conversations with internal AI + Security, Security for AI, Responsible AI, Alignment/Evals, and Agent Platform teams—and to evaluate which direction is the best next move.
+**Goal:** By January 2027, build enough vocabulary and mental models to understand internal AI + Security, Security for AI, Responsible AI, Alignment/Evals, and Agent Platform.
 
 ## How to use this plan
 
